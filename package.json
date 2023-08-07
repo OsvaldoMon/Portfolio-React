@@ -1,5 +1,6 @@
 {
   "name": "portafolio-oswaldo20mon",
+  "homepage": "https://osvaldomon.github.io",
   "version": "1.5.0",
   "private": true,
   "dependencies": {
@@ -46,7 +47,7 @@
     ]
   },
   "devDependencies": {
-    "tsparticles": "^2.1.3",
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "tsparticles": "^2.1.3"
   }
 }
