@@ -1,4 +1,3 @@
-# Portfolio Nahuel61920 1.9.0 🖥️
+# Oswaldo Monsalvo Portfolio 🖥️
 
-![preview img](/preview.png)
 "# Portfolio-React" 
